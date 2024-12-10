@@ -4,7 +4,7 @@ date: 2024-12-12
 categories: [Digitalizacija, Zdravstvo]
 ---
 
-# Digitalizacija zdravstva: Ključna orodja in inovacije  
+# Digitalizacija zdravstva: Ključna orodja in inovacije  - Faris
 
 Digitalizacija v zdravstvu prinaša priložnosti za izboljšanje oskrbe v zdravstvu, diagnostike in komunikacije.  
 
