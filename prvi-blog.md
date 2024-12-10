@@ -7,3 +7,5 @@ Tukaj bom delil svoje ideje o zdravstvu, podjetništvu in digitalizaciji.
 - To je druga točka.
 
 Hvala za branje! 🚀
+
+---
