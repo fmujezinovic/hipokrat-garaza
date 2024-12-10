@@ -1,5 +1,5 @@
 ---
-title: "Digitalizacija zdravstva: Ključna orodja in inovacije"
+title: "Digitalizacija zdravstva: Ključna orodja in inovacije Faris"
 date: 2024-12-12
 categories: [Digitalizacija, Zdravstvo]
 ---
