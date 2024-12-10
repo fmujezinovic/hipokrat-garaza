@@ -6,7 +6,7 @@ categories: [Digitalizacija, Zdravstvo]
 
 # Digitalizacija zdravstva: Ključna orodja in inovacije  
 
-Digitalizacija v zdravstvu prinaša priložnosti za izboljšanje oskrbe, diagnostike in komunikacije.  
+Digitalizacija v zdravstvu prinaša priložnosti za izboljšanje oskrbe v zdravstvu, diagnostike in komunikacije.  
 
 ![Digitalizacija v akciji](https://files.worldwildlife.org/wwfcmsprod/images/Brown_Bear_/story_full_width/3box0qwlkk_brownbear_hero.jpg)  
 
