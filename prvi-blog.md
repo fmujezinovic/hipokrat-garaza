@@ -9,3 +9,4 @@ Tukaj bom delil svoje ideje o zdravstvu, podjetništvu in digitalizaciji.
 Hvala za branje! 🚀
 
 ---
+*Testiranje sinhronizacije z WordPressom.*
