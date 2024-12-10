@@ -1,10 +1,10 @@
 ---
-title: "Digitalizacija zdravstva: Ključna orodja in inovacije - Faris"
+title: "Digitalizacija zdravstva: Ključna orodja in inovacije - FarisBOY"
 date: 2024-12-12
 categories: [Digitalizacija, Zdravstvo]
 ---
 
-# Digitalizacija zdravstva: Ključna orodja in inovacije   - Faris
+# Digitalizacija zdravstva: Ključna orodja in inovacije   - FarisBOY
 
 Digitalizacija v zdravstvu prinaša priložnosti za izboljšanje oskrbe, diagnostike in komunikacije.  
 
